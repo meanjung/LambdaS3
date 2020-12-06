@@ -1,0 +1,22 @@
+{
+  "name": "lambdas3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meanjung/LambdaS3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meanjung/LambdaS3/issues"
+  },
+  "homepage": "https://github.com/meanjung/LambdaS3#readme",
+  "dependencies": {
+    "sharp": "^0.26.3"
+  }
+}
